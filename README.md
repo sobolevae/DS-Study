@@ -1,2 +1,2 @@
 # DS-Study
-Data scince studies
+Data science studies
